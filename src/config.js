@@ -1,4 +1,4 @@
 const config = {
-  BASE_URL: "http://localhost:5002",
+  BASE_URL: "https://final-project-backend-oi23.vercel.app",
 };
 export default config;
